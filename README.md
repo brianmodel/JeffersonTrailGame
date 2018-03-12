@@ -6,7 +6,7 @@ The minigames are kinda silly, but they just give a more interactive way to play
 
 Much of the code is a complete hack as this was my first big programming project. Many improvements can be made (splitting the single file into multiple files, getting rid of many temporary variables, etc.)
 
-![Jefferson Trail](Screen Shot 2018-03-12 at 1.46.11 PM.png)
+![Jefferson Trail](img/Screen Shot 2018-03-12 at 1.46.11 PM.png)
 
 # Contributors
 - Brian Model
