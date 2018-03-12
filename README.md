@@ -6,7 +6,13 @@ The minigames are kinda silly, but they just give a more interactive way to play
 
 Much of the code is a complete hack as this was my first big programming project. Many improvements can be made (splitting the single file into multiple files, getting rid of many temporary variables, etc.)
 
-![health](https://github.com/brianmodel/JeffersonTrailGame/blob/master/img/Screen%20Shot%202018-03-12%20at%201.48.22%20PM.png?raw=true "Health Picture")
+# Screenshots from the game running
+
+## Home Screen:
+
+![homescreen](https://github.com/brianmodel/JeffersonTrailGame/blob/master/img/Screen%20Shot%202018-03-12%20at%201.45.06%20PM.png?raw=true "Home Screen")
+
+![health](https://github.com/brianmodel/JeffersonTrailGame/blob/master/img/Screen%20Shot%202018-03-12%20at%201.48.22%20PM.png?raw=true "Health")
 
 # Contributors
 - Brian Model
