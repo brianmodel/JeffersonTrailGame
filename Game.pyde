@@ -1,3 +1,11 @@
+'''
+I'll give anyone looking here a heads up. This was my first major project, and I did not follow MANY practices that one should follow
+when tackling a project of this size. Many variable names make no sense, and everything is in a single file, so there is lots of room
+for improvement in the coding of this project
+'''
+
+#Make sure to have the processing sound library installed, otherwise an error will be thrown
+
 from time import sleep
 import random
 
