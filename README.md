@@ -8,9 +8,9 @@ Much of the code is a complete hack as this was my first big programming project
 
 # Screenshots from the game running
 
-Home Screen:
+Title Screen:
 
-![homescreen](https://github.com/brianmodel/JeffersonTrailGame/blob/master/img/Screen%20Shot%202018-03-12%20at%201.45.06%20PM.png?raw=true "Home Screen")
+![tilescreen](https://github.com/brianmodel/JeffersonTrailGame/blob/master/img/Screen%20Shot%202018-03-12%20at%201.45.06%20PM.png?raw=true "Title Screen")
 
 After pressing some buttons, and going through some other screens, you get to the main game
 
@@ -24,6 +24,8 @@ These screenshots are just a small portion of the entire game.
 
 # Running the Game
 To run the game, you need to install the processing IDE. Also, make sure to install the sound library by the Processing Foundation in order to run the game.
+
+Once everything is installed, put the Game.pyde file in the same directory as the data folder. Next, open Game.pyde, and run the file from the IDE. A window should pop up with the title screen. Type in your option, and press enter to begin!
 
 # Contributors
 - Brian Model
