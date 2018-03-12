@@ -5,3 +5,6 @@ A game in the Processing IDE for python that depicts the novel As I Lay Dying in
 The minigames are kinda silly, but they just give a more interactive way to play through a certain part of the story.
 
 Much of the code is a complete hack as this was my first big programming project. Many improvements can be made (splitting the single file into multiple files, getting rid of many temporary variables, etc.)
+
+# Contributors
+- Brian Model
