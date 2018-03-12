@@ -8,3 +8,6 @@ Much of the code is a complete hack as this was my first big programming project
 
 # Contributors
 - Brian Model
+- Andrew Sander
+- Adam "Bench" Akovity
+- William Rice
