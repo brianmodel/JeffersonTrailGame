@@ -30,6 +30,6 @@ These screenshots are just a small portion of the entire game.
 
 # Contributors
 - Brian Model
-- Andrew Sander
+- Nicholas Szegheo
 - Adam "Bench" Akovity
 - William Rice
